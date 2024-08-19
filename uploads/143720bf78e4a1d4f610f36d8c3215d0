@@ -1,0 +1,13 @@
+https://instamobile.io/android-development/generate-react-native-release-build-android/
+
+
+C:\Users\777\AppData\Local\Android\Sdk\tools
+C:\Users\777\AppData\Local\jdk-11.0.2\bin
+C:\Users\777\AppData\Local\Android\Sdk\platform-tools
+C:\Users\777\AppData\Roaming\npm
+
+C:\Program Files\Common Files\Oracle\Java\javapath
+C:\Users\777\AppData\Local\Android\Sdk\emulator
+C:\Users\777\AppData\Local\Android\Sdk\platform-tools
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
